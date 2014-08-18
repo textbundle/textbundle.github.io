@@ -1,6 +1,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ site.description }}">
@@ -8,5 +9,7 @@
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/textbundle@2x.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/textbundle.png">
+    <link rel="shortcut icon" href="ico/favicon.ico">
 </head>

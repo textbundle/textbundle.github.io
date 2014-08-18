@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Text Bundle Format Specification
-permalink: /spec/
+title: TextBundle Specification
 ---
 The purpose of the text bundle file format is to simplify the exchange of Markdown files and additional image files between sandboxed applications. By using a single package file, applications do not need to acquire additional sandbox extensions to access files referenced by a Markdown document.
 
