@@ -362,7 +362,12 @@ a {
 .apps .app {
   vertical-align: middle; }
 .apps .appicon {
-  width: 32px; }
+  width: 32px;
+  margin-right: 0px;
+  padding-right: 1em; }
+.apps .appname {
+  padding-left: 0px;
+  margin-left: 0px; }
 .apps a {
   color: #bbb; }
 

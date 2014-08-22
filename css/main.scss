@@ -481,8 +481,12 @@ a {
 	}
 	.appicon {
 		width: 32px;
+		margin-right: 0px;
+		padding-right: 1em;
 	}
 	.appname {
+		padding-left: 0px;
+		margin-left: 0px;
 	}
 	a {
 		color: #bbb;
