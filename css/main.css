@@ -30,7 +30,7 @@ a {
 
 /* Utility */
 .wrap {
-  max-width: 800px;
+  max-width: 700px;
   padding: 0 30px;
   margin: 0 auto;
   zoom: 1; }
@@ -155,10 +155,10 @@ a {
     font-size: 24px;
     letter-spacing: -1px;
     line-height: 1; }
-  .posts .post-date {
-    display: block;
-    font-size: 15px;
-    color: #818181; }
+
+.rss-subscribe {
+  font-size: 0.9em;
+  padding-top: 1em; }
 
 /* Post styles */
 /* ----------------------------------------------------------*/
@@ -186,8 +186,13 @@ a {
     font-size: 32px;
     letter-spacing: -1.25px; }
   .post-content h3 {
-    font-size: 26px;
-    letter-spacing: -1px; }
+    font-size: 24px;
+    margin-bottom: 0em; }
+  .post-content .post-date {
+    display: block;
+    font-size: 15px;
+    color: #818181;
+    margin-bottom: 1em; }
   .post-content h4 {
     font-size: 20px;
     letter-spacing: -1px; }
@@ -199,30 +204,26 @@ a {
     letter-spacing: -1px;
     font-style: italic;
     margin: 30px 0; }
-  .post-content ul, .post-content ol {
-    padding-left: 20px; }
 
 .post pre {
-  border: 1px solid #666;
-  background-color: #555;
+  border: 1px solid #555;
+  background-color: #444;
   padding: 8px 12px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
-  font-size: 15px;
+  font-size: 14px;
   overflow: scroll; }
 .post code {
-  border: 1px solid #666;
-  background-color: #555;
+  border: 1px solid #555;
+  background-color: #444;
   padding: 8px 12px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
-  font-size: 15px;
+  font-size: 14px;
   overflow: scroll;
   padding: 1px 5px; }
-.post ul, .post ol {
-  margin-left: 1.35em; }
 .post pre code {
   border: 0;
   padding-right: 0;
@@ -236,6 +237,23 @@ a {
   border-radius: 3px; }
   .post pre.terminal code {
     background-color: #333; }
+.post p {
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  text-align: justify; }
+.post table {
+  border-collapse: collapse;
+  width: 100%; }
+  .post table th {
+    text-align: left;
+    padding: 0.8em;
+    margin: 0;
+    border-bottom: 1px solid white; }
+  .post table td {
+    padding: 0.8em;
+    margin: 0;
+    text-align: justify;
+    hyphens: auto; }
 
 /* terminal */
 /* Syntax highlighting styles */
@@ -340,6 +358,13 @@ a {
     color: teal; }
   .highlight .il {
     color: #009999; }
+
+.apps .app {
+  vertical-align: middle; }
+.apps .appicon {
+  width: 64px; }
+.apps a {
+  color: white; }
 
 /* Comment */
 /* Error */
