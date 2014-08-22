@@ -37,5 +37,5 @@ This is where TextBundle comes in. TextBundle brings convenience back - by bundl
 
 Like to join in with your app? Please [drop us a line][1] or write us on [twitter][2]!
 
-[1]:	mailto:mail@the-soulmen.com
+[1]:	mailto:info@textbundle.org
 [2]:	https://twitter.com/txtbndl
