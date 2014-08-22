@@ -68,7 +68,7 @@ a {
 
 .site-title {
   display: block;
-  color: #fff;
+  color: #bbb;
   font-size: 26px;
   letter-spacing: -1px;
   float: left;
@@ -77,7 +77,7 @@ a {
   z-index: 1;
   &:hover, &:visited {
     display: block;
-    color: #fff;
+    color: #bbb;
     font-size: 26px;
     letter-spacing: -1px;
     float: left;
@@ -95,7 +95,7 @@ a {
   }
   .page-link {
     margin-left: 20px;
-    color: #fff;
+    color: #bbb;
     letter-spacing: -.5px;
   }
 }
@@ -173,7 +173,7 @@ a {
 .page-content {
   padding: 30px 0;
   background-color: #2a2a2a;
-  color: #eee;
+  color: #bbb;
 }
 
 /* Home styles */
@@ -315,7 +315,7 @@ a {
 		  text-align: left;
 		  padding: 0.8em;
 		  margin: 0;
-		  border-bottom: 1px solid white;
+		  border-bottom: 1px solid #bbb;
 	  }
 	  td {
 		  padding: 0.8em;
@@ -332,7 +332,7 @@ a {
 /* ----------------------------------------------------------*/
 
 .highlight {
-  background: #ffffff;
+  background: #bbb;
   .c {
     color: #999988;
     font-style: italic;
@@ -485,7 +485,7 @@ a {
 	.appname {
 	}
 	a {
-		color: white;
+		color: #bbb;
 	}
 }
 
