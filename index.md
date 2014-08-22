@@ -24,12 +24,12 @@ This is where TextBundle comes in. TextBundle brings convenience back - by bundl
         <td class="appicon"><a href='http://www.ulyssesapp.com'><img src='images/apps/ulysses.png' /></a></td>
         <td class="appname"><a href='http://www.ulyssesapp.com'>Ulysses</a></td>
         <td class="appreading">-</td>
-        <td class="appwriting">1.2.2</td>
+        <td class="appwriting">v 1.2.2</td>
     </tr>
     <tr>
         <td class="appicon"><a href='http://www.marked2app.com'><img src='images/apps/marked2.png' /></a></td>
         <td class="appname"><a href='http://www.marked2app.com'>Marked 2</a></td>
-        <td class="appreading">2.3.4</td>
+        <td class="appreading">v 2.3.4</td>
         <td class="appwriting">-</td>
     </tr>
 </table>
