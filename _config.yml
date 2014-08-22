@@ -4,7 +4,7 @@ email:
 description: "A community site for the development of the TextBundle standard"
 baseurl:
 url: "http://textbundle.org"
-twitter_username:  textbundle
+twitter_username:  txtbndl
 github_username:  textbundle
 
 # Build settings
