@@ -38,7 +38,7 @@ The following shows an example of the contents of an `info.json` file with an ad
 	    "version":              1,
 	    "transient":            true,
 	    "creatorURL":           "file:///Applications/MyApp",
-	    "creatorIdentifier:     "com.example.myapp",
+	    "creatorIdentifier":    "com.example.myapp",
 	    "com.example.myapp":    {
 	                             "version":    3,
 	                             "customKey":    "aCustomValue"
