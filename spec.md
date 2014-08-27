@@ -16,7 +16,7 @@ A TextBundle package contains the following files:
 |-------------|-------------------------------------------------------------------------------------------------------------------------
 | `info.json` | All meta information about the bundle. See section “The Meta Data File”.
 | `text.md`   | The actual Markdown contents.
-| `assets/`   | All asset files referenced form the Markdown file. 
+| `assets/`   | All asset files referenced from the Markdown file. 
 
 To ensure proper integration with iOS apps these filenames should be written in lower case.
 
