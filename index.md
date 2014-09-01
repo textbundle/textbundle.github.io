@@ -12,6 +12,8 @@ An example: Markdown files may contain references to external images. When sendi
 
 This is where TextBundle comes in. TextBundle brings convenience back - by bundling the Markdown text and all referenced images into a single file. Supporting applications can just exchange TextBundles without asking for additional permissions. Beyond being a simple container, TextBundle includes a standard to transfer additional information - to open up new possibilites for future integration.
 
+You can download a simple example file [here][downloads/example.zip].
+
 ## Supporting Apps
 
 <table class="apps">
