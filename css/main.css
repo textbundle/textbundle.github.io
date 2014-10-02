@@ -149,8 +149,10 @@ a {
 
 .posts {
   list-style-type: none; }
-  .posts li {
-    margin-bottom: 30px; }
+  .posts ul {
+    margin-left: 2em;
+    margin-top: 1em;
+    margin-bottom: 1em; }
   .posts .post-link {
     font-size: 24px;
     letter-spacing: -1px;
@@ -370,6 +372,8 @@ a {
   margin-left: 0px; }
 .apps a {
   color: #bbb; }
+.apps .appreading, .apps .appwriting, .apps .appstandard {
+  text-align: center; }
 
 /* Comment */
 /* Error */
@@ -504,3 +508,5 @@ a {
     clear: both;
     width: auto;
     margin: 0 0 15px; } }
+
+/*# sourceMappingURL=main.css.map */

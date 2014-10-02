@@ -185,8 +185,10 @@ a {
 
 .posts {
   list-style-type: none;
-  li {
-    margin-bottom: 30px;
+  ul {
+   margin-left:2em;
+    margin-top: 1em;
+    margin-bottom: 1em;
   }
   .post-link {
     font-size: 24px;
@@ -490,6 +492,9 @@ a {
 	}
 	a {
 		color: #bbb;
+	}
+	.appreading, .appwriting, .appstandard {
+		text-align: center;
 	}
 }
 
