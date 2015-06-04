@@ -22,7 +22,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
        <th>OS</th>
         <th class="appreading">Reading</th>
         <th class="appwriting">Writing</th>
-		<th class="appstandard">Standard</th>
+        <th class="appstandard">Standard</th>
     </tr>
     <tr>
         <td class="appicon"><a href='http://www.marked2app.com'><img src='images/apps/marked2.png' /></a></td>
@@ -30,7 +30,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
        <td class="appos">Mac</td>
         <td class="appreading">2.3.4 (or newer)</td>
         <td class="appwriting">-</td>
-		<td class="appstandard">v1</td>
+        <td class="appstandard">v1</td>
     </tr>
     <tr class="app">
         <td class="appicon"><a href='http://www.ulyssesapp.com'><img src='images/apps/ulysses.png' /></a></td>
@@ -38,7 +38,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
        <td class="appos">Mac</td> 
         <td class="appreading">-</td>
         <td class="appwriting">1.2.2 (or newer)</td>
-		<td class="appstandard">v1</td>		
+        <td class="appstandard">v1</td>     
     </tr> 
     <tr class="app">
         <td class="appicon"><a href='http://www.highlightsapp.net'><img src='images/apps/highlights.png' /></a></td>
@@ -46,15 +46,20 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
        <td class="appos">Mac</td> 
         <td class="appreading">-</td>
         <td class="appwriting">1.0 (or newer)</td>
-		<td class="appstandard">v1</td>		
+        <td class="appstandard">v1</td>     
     </tr> 
 </table>
 
 
+### Quick Look on OS X
+
+Properly formatted TextBundle files can be viewed with Quick Look on OS X by installing [Brett Terpstra's fork of the MultiMarkdown QuickLook plugin][6]. Be sure to run `qlmanage -r` in Terminal after installing or upgrading the plugin.
+
 Like to join in with your app? Please [drop us a line][4] or write us on [twitter][5]!
 
-[1]:	/downloads/example-bundle-v1.zip
-[2]:	/downloads/example-bundle-v2.zip
-[3]:	/downloads/example.textpack
-[4]:	mailto:info@textbundle.org
-[5]:	https://twitter.com/txtbndl
+[1]:    /downloads/example-bundle-v1.zip
+[2]:    /downloads/example-bundle-v2.zip
+[3]:    /downloads/example.textpack
+[4]:    mailto:info@textbundle.org
+[5]:    https://twitter.com/txtbndl
+[6]:    http://brettterpstra.com/2015/06/03/mmd-quicklook-1-dot-2-with-textbundle-support/
