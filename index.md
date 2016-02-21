@@ -48,6 +48,14 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appwriting">1.0 (or newer)</td>
         <td class="appstandard">v1</td>     
     </tr> 
+    <tr class="app">
+        <td class="appicon"><a href='http://www.aflava.com'><img src='images/apps/smartdown.png' /></a></td>
+        <td class="appname"><a href='http://www.aflava.com'>Smartdown II</a></td>
+       <td class="appos">Windows</td> 
+        <td class="appreading">-</td>
+        <td class="appwriting">0.8.2 (or newer)</td>
+		<td class="appstandard">v2</td>		
+    </tr> 
 </table>
 
 
