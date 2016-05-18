@@ -56,6 +56,14 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appwriting">0.8.2 (or newer)</td>
 		<td class="appstandard">v2</td>		
     </tr> 
+    <tr class="app">
+        <td class="appicon"><a href='http://basilsalad.com/ios/go-edit/'><img src='images/apps/goedit.png' /></a></td>
+        <td class="appname"><a href='http://basilsalad.com/ios/go-edit/'>Go Edit</a></td>
+        <td class="appos">iOS</td> 
+        <td class="appreading">1.0 (or newer)</td>
+        <td class="appwriting">1.0 (or newer)</td>
+		<td class="appstandard">v2 (md, html)</td>		
+    </tr>
 </table>
 
 
