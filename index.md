@@ -27,7 +27,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
     <tr>
         <td class="appicon"><a href='http://www.marked2app.com'><img src='images/apps/marked2.png' /></a></td>
         <td class="appname"><a href='http://www.marked2app.com'>Marked 2</a></td>
-       <td class="appos">Mac</td>
+       <td class="appos">macOS</td>
         <td class="appreading">2.3.4 (or newer)</td>
         <td class="appwriting">-</td>
         <td class="appstandard">v1</td>
@@ -35,7 +35,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
     <tr class="app">
         <td class="appicon"><a href='http://www.ulyssesapp.com'><img src='images/apps/ulysses.png' /></a></td>
         <td class="appname"><a href='http://www.ulyssesapp.com'>Ulysses</a></td>
-       <td class="appos">Mac</td> 
+       <td class="appos">macOS, iOS</td> 
         <td class="appreading">-</td>
         <td class="appwriting">1.2.2 (or newer)</td>
         <td class="appstandard">v1</td>     
@@ -43,7 +43,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
     <tr class="app">
         <td class="appicon"><a href='http://www.highlightsapp.net'><img src='images/apps/highlights.png' /></a></td>
         <td class="appname"><a href='http://www.highlightsapp.net'>Highlights</a></td>
-       <td class="appos">Mac</td> 
+       <td class="appos">macOS</td> 
         <td class="appreading">-</td>
         <td class="appwriting">1.0 (or newer)</td>
         <td class="appstandard">v1</td>     
