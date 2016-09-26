@@ -64,6 +64,22 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appwriting">1.0 (or newer)</td>
 		<td class="appstandard">v2 (md, html)</td>		
     </tr>
+    <tr class="app">
+        <td class="appicon"><a href='http://xelaton.com/index.php?lang=en&rubrik=Applications--Note-C'><img src='images/apps/note-c.png' /></a></td>
+        <td class="appname"><a href='http://xelaton.com/index.php?lang=en&rubrik=Applications--Note-C'>Note-C</a></td>
+        <td class="appos">macOS</td> 
+        <td class="appreading">1.5.0 (or newer)</td>
+        <td class="appwriting">1.5.0 (or newer)</td>
+		<td class="appstandard">v2</td>		
+    </tr>
+    <tr class="app">
+        <td class="appicon"><a href='http://xelaton.com/index.php?lang=en&rubrik=Applications--Myary'><img src='images/apps/myary.png' /></a></td>
+        <td class="appname"><a href='http://xelaton.com/index.php?lang=en&rubrik=Applications--Myary'>Myary</a></td>
+        <td class="appos">macOS</td> 
+        <td class="appreading">1.5.0 (or newer)</td>
+        <td class="appwriting">1.5.0 (or newer)</td>
+		<td class="appstandard">v2</td>		
+    </tr>
 </table>
 
 
