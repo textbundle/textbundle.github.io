@@ -36,14 +36,14 @@ To ensure proper integration with iOS apps these filenames should be written in 
 ## The Meta Data file
 The `info.json` file contains all meta data about the TextBundle. It is a JSON file using the following key / value pairs:
 
-| Key                   | Type       | Version | Description
+| Key                   | Type       | Version | Optional | Description
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------
-| `version`             | Integer    | 1       | The version number of the file format. Latest version is 2.
-| `type`                | String     | 2       | The UTI of the `text.*` file. E.g. set to `net.daringfireball.markdown` for Markdown.
-| `transient`           | Bool       | 1       | Whether or not the bundle is a temporary container solely used for exchanging a document between applications. See section “Cooperating With Other Applications”
-| `creatorURL`          | String     | 1       | The URL of the application that originally created the TextBundle. Can be used by viewers to switch back to the originating editor.
-| `creatorIdentifier`   | String     | 1       | The bundle identifier of the application that created the file.
-| `sourceURL`           | String     | 2       | The URL of the file used to generate the TextBundle. Can be used to switch back to a source file within the originating editor app.
+| `version`             | Integer    | 1       | NO       | The version number of the file format. Latest version is 2.
+| `type`                | String     | 2       | NO       | The UTI of the `text.*` file. E.g. set to `net.daringfireball.markdown` for Markdown.
+| `transient`           | Bool       | 1       | YES      | Whether or not the bundle is a temporary container solely used for exchanging a document between applications. See section “Cooperating With Other Applications”. Defaults to "false".
+| `creatorURL`          | String     | 1       | YES      | The URL of the application that originally created the TextBundle. Can be used by viewers to switch back to the originating editor.
+| `creatorIdentifier`   | String     | 1       | YES      | The bundle identifier of the application that created the file.
+| `sourceURL`           | String     | 2       | YES      | The URL of the file used to generate the TextBundle. Can be used to switch back to a source file within the originating editor app.
 
 Additionally, the meta data file can contain application-specific information. Application-specific information must be stored inside a nested dictionary. The dictionary is referenced by a key using the application bundle identifier (e.g. `com.example.myapp`). This dictionary should contain at least a version number to ensure backwards compatibility.
 
