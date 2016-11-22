@@ -37,7 +37,7 @@ To ensure proper integration with iOS apps these filenames should be written in 
 The `info.json` file contains all meta data about the TextBundle. It is a JSON file using the following key / value pairs:
 
 | Key                   | Type       | Version | Optional | Description
-|-----------------------|-------------------------------------------------------------------------------------------------------------------------
+|-----------------------|------------|---------|----------|---------------------------------------------------------------------------------------
 | `version`             | Integer    | 1       | NO       | The version number of the file format. Latest version is 2.
 | `type`                | String     | 2       | NO       | The UTI of the `text.*` file. E.g. set to `net.daringfireball.markdown` for Markdown.
 | `transient`           | Bool       | 1       | YES      | Whether or not the bundle is a temporary container solely used for exchanging a document between applications. See section “Cooperating With Other Applications”. Defaults to "false".
