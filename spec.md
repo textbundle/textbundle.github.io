@@ -39,7 +39,7 @@ The `info.json` file contains all meta data about the TextBundle. It is a JSON f
 | Key                   | Type       | Version | Optional | Description
 |-----------------------|------------|---------|----------|---------------------------------------------------------------------------------------
 | `version`             | Integer    | 1       | NO       | The version number of the file format. Latest version is 2.
-| `type`                | String     | 2       | YES      | The UTI of the `text.*` file. E.g. set to `net.daringfireball.markdown` for Markdown. To be compatible with version 1 this should defaults to `net.daringfireball.markdown` if not given.
+| `type`                | String     | 2       | YES      | The UTI of the `text.*` file. E.g. set to `net.daringfireball.markdown` for Markdown. This field should default to `net.daringfireball.markdown` to be backwards-compatible with version 1.
 | `transient`           | Bool       | 1       | YES      | Whether or not the bundle is a temporary container solely used for exchanging a document between applications. See section “Cooperating With Other Applications”. Defaults to "false".
 | `creatorURL`          | String     | 1       | YES      | The URL of the application that originally created the TextBundle. Can be used by viewers to switch back to the originating editor.
 | `creatorIdentifier`   | String     | 1       | YES      | The bundle identifier of the application that created the file.
