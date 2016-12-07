@@ -84,9 +84,9 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appicon"><a href='http://www.ulyssesapp.com'><img src='images/apps/ulysses.png' /></a></td>
         <td class="appname"><a href='http://www.ulyssesapp.com'>Ulysses</a></td>
        <td class="appos">macOS, iOS</td> 
-        <td class="appreading">-</td>
+        <td class="appreading">2.7</td>
         <td class="appwriting">1.2.2 +</td>
-        <td class="appstandard">v1</td>     
+        <td class="appstandard">v2</td>     
     </tr> 
 </table>
 
