@@ -92,9 +92,14 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
 
 
 ### Quick Look on OS X
-
 Properly formatted TextBundle files can be viewed with Quick Look on OS X by installing [Brett Terpstra's fork of the MultiMarkdown QuickLook plugin][6]. Be sure to run `qlmanage -r` in Terminal after installing or upgrading the plugin.
 
+
+### Logo
+You can download the official logo of TextBundle in various file formats [here](downloads/textbundle-logo.zip). The logo was created by [Brett Terpstra][7]. It is published under the [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license, so you can use it without restrictions.
+
+
+### Join us!
 Like to join in with your app? Please [drop us a line][4] or write us on [twitter][5]!
 
 [1]:    /downloads/example-bundle-v1.zip
@@ -103,3 +108,4 @@ Like to join in with your app? Please [drop us a line][4] or write us on [twitte
 [4]:    mailto:info@textbundle.org
 [5]:    https://twitter.com/txtbndl
 [6]:    http://brettterpstra.com/2015/06/03/mmd-quicklook-1-dot-2-with-textbundle-support/
+[7]:	http://brettterpstra.com/
