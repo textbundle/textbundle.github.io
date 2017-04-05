@@ -56,6 +56,14 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appwriting">-</td>
         <td class="appstandard">v1</td>
     </tr>
+    <tr>
+        <td class="appicon"><a href='http://www.mindnode.com'><img src='images/apps/mindnode.png' /></a></td>
+        <td class="appname"><a href='http://www.mindnode.com'>MindNode</a></td>
+       <td class="appos">macOS, iOS</td>
+        <td class="appreading">4.5+ (iOS), 2.5+ (macOS)</td>
+        <td class="appwriting">4.5+ (iOS), 2.5+ (macOS)</td>
+        <td class="appstandard">v2</td>
+    </tr>
     <tr class="app">
         <td class="appicon"><a href='http://xelaton.com/index.php?lang=en&rubrik=Applications--Myary'><img src='images/apps/myary.png' /></a></td>
         <td class="appname"><a href='http://xelaton.com/index.php?lang=en&rubrik=Applications--Myary'>Myary</a></td>
