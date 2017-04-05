@@ -60,8 +60,8 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appicon"><a href='http://www.mindnode.com'><img src='images/apps/mindnode.png' /></a></td>
         <td class="appname"><a href='http://www.mindnode.com'>MindNode</a></td>
        <td class="appos">macOS, iOS</td>
-        <td class="appreading">4.5&nbsp;+&nbsp;(iOS), 2.5&nbsp;+&nbsp;(macOS)</td>
-        <td class="appwriting">4.5&nbsp;+&nbsp;(iOS), 2.5&nbsp;+&nbsp;(macOS)</td>
+        <td class="appreading">2.5&nbsp;+&nbsp;(macOS), 4.5&nbsp;+&nbsp;(iOS)</td>
+        <td class="appwriting">2.5&nbsp;+&nbsp;(macOS), 4.5&nbsp;+&nbsp;(iOS)</td>
         <td class="appstandard">v2</td>
     </tr>
     <tr class="app">
