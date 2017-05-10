@@ -6,7 +6,7 @@ position: 0
 ---
 The TextBundle file format aims to provide a more seamless user expericence when exchanging plain text files, like Markdown or Fountain, between sandboxed applications.
 
-Sandboxing is required for all apps available on the Mac and iOS app store, in order to grant users a high level of data security. Sandboxed apps are only permitted access to files explicitly provided by the user - for example Markdown text files. When working with different Markdown applications, sandboxing can cause inconveniences for the user. 
+Sandboxing is required for all apps available on the Mac and iOS app store, in order to grant users a high level of data security. Sandboxed apps are only permitted access to files explicitly provided by the user - for example Markdown text files. When working with different Markdown applications, sandboxing can cause inconveniences for the user.
 
 An example: Markdown files may contain references to external images. When sending such a file from a Markdown editor to a previewer, users will have to explicitly permit access to every single image file.
 
@@ -35,7 +35,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
     <tr class="app">
         <td class="appicon"><a href='http://basilsalad.com/ios/go-edit/'><img src='images/apps/goedit.png' /></a></td>
         <td class="appname"><a href='http://basilsalad.com/ios/go-edit/'>Go Edit</a></td>
-        <td class="appos">iOS</td> 
+        <td class="appos">iOS</td>
         <td class="appreading">1.0 +</td>
         <td class="appwriting">1.0 +</td>
 		<td class="appstandard">v2 (md, html)</td>		
@@ -43,11 +43,11 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
     <tr class="app">
         <td class="appicon"><a href='http://www.highlightsapp.net'><img src='images/apps/highlights.png' /></a></td>
         <td class="appname"><a href='http://www.highlightsapp.net'>Highlights</a></td>
-       <td class="appos">macOS</td> 
+       <td class="appos">macOS</td>
         <td class="appreading">-</td>
         <td class="appwriting">1.0 +</td>
         <td class="appstandard">v1</td>     
-    </tr> 
+    </tr>
     <tr>
         <td class="appicon"><a href='http://www.marked2app.com'><img src='images/apps/marked2.png' /></a></td>
         <td class="appname"><a href='http://www.marked2app.com'>Marked 2</a></td>
@@ -67,7 +67,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
     <tr class="app">
         <td class="appicon"><a href='http://xelaton.com/index.php?lang=en&rubrik=Applications--Myary'><img src='images/apps/myary.png' /></a></td>
         <td class="appname"><a href='http://xelaton.com/index.php?lang=en&rubrik=Applications--Myary'>Myary</a></td>
-        <td class="appos">macOS</td> 
+        <td class="appos">macOS</td>
         <td class="appreading">1.5.0 +</td>
         <td class="appwriting">1.5.0 +</td>
 		<td class="appstandard">v2</td>		
@@ -75,7 +75,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
     <tr class="app">
         <td class="appicon"><a href='http://xelaton.com/index.php?lang=en&rubrik=Applications--Note-C'><img src='images/apps/note-c.png' /></a></td>
         <td class="appname"><a href='http://xelaton.com/index.php?lang=en&rubrik=Applications--Note-C'>Note-C</a></td>
-        <td class="appos">macOS</td> 
+        <td class="appos">macOS</td>
         <td class="appreading">1.5.0 +</td>
         <td class="appwriting">1.5.0 +</td>
 		<td class="appstandard">v2</td>		
@@ -83,19 +83,27 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
     <tr class="app">
         <td class="appicon"><a href='http://www.aflava.com'><img src='images/apps/smartdown.png' /></a></td>
         <td class="appname"><a href='http://www.aflava.com'>Smartdown II</a></td>
-       <td class="appos">Windows</td> 
+       <td class="appos">Windows</td>
         <td class="appreading">-</td>
         <td class="appwriting">0.8.2 +</td>
 		<td class="appstandard">v2</td>		
-    </tr> 
+    </tr>
+    <tr class="app">
+        <td class="appicon"><a href='http://www.toketaware.com/'><img src='images/apps/ithoughts.png' /></a></td>
+        <td class="appname"><a href='http://www.toketaware.com/'>iThoughts</a></td>
+       <td class="appos">macOS, iOS, Windows</td>
+        <td class="appreading">-</td>
+        <td class="appwriting">4.11&nbsp;+&nbsp;(macOS), 2.3&nbsp;+&nbsp;(Windows), 2.7&nbsp;+&nbsp;(iOS)</td>
+		<td class="appstandard">v1</td>		
+    </tr>
     <tr class="app">
         <td class="appicon"><a href='http://www.ulyssesapp.com'><img src='images/apps/ulysses.png' /></a></td>
         <td class="appname"><a href='http://www.ulyssesapp.com'>Ulysses</a></td>
-       <td class="appos">macOS, iOS</td> 
+       <td class="appos">macOS, iOS</td>
         <td class="appreading">2.7</td>
         <td class="appwriting">1.2.2 +</td>
         <td class="appstandard">v2</td>     
-    </tr> 
+    </tr>
 </table>
 
 
