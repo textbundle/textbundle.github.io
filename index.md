@@ -48,6 +48,14 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appwriting">1.0 +</td>
         <td class="appstandard">v1</td>     
     </tr>
+    <tr class="app">
+        <td class="appicon"><a href='http://www.toketaware.com/'><img src='images/apps/ithoughts.png' /></a></td>
+        <td class="appname"><a href='http://www.toketaware.com/'>iThoughts</a></td>
+       <td class="appos">macOS, iOS, Windows</td>
+        <td class="appreading">-</td>
+        <td class="appwriting">4.11&nbsp;+&nbsp;(macOS), 2.3&nbsp;+&nbsp;(Windows), 2.7&nbsp;+&nbsp;(iOS)</td>
+		<td class="appstandard">v1</td>		
+    </tr>
     <tr>
         <td class="appicon"><a href='http://www.marked2app.com'><img src='images/apps/marked2.png' /></a></td>
         <td class="appname"><a href='http://www.marked2app.com'>Marked 2</a></td>
@@ -87,14 +95,6 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appreading">-</td>
         <td class="appwriting">0.8.2 +</td>
 		<td class="appstandard">v2</td>		
-    </tr>
-    <tr class="app">
-        <td class="appicon"><a href='http://www.toketaware.com/'><img src='images/apps/ithoughts.png' /></a></td>
-        <td class="appname"><a href='http://www.toketaware.com/'>iThoughts</a></td>
-       <td class="appos">macOS, iOS, Windows</td>
-        <td class="appreading">-</td>
-        <td class="appwriting">4.11&nbsp;+&nbsp;(macOS), 2.3&nbsp;+&nbsp;(Windows), 2.7&nbsp;+&nbsp;(iOS)</td>
-		<td class="appstandard">v1</td>		
     </tr>
     <tr class="app">
         <td class="appicon"><a href='http://www.ulyssesapp.com'><img src='images/apps/ulysses.png' /></a></td>
