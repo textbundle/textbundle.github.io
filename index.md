@@ -32,6 +32,14 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appwriting">1.0 +</td>
         <td class="appstandard">v2</td>
     </tr>
+	<tr>
+        <td class="appicon"><a href='https://xelaton.com/index.php?lang=en&rubrik=Applications--eBookBinder'><img src='images/apps/ebookbinder.png' /></a></td>
+        <td class="appname"><a href='https://xelaton.com/index.php?lang=en&rubrik=Applications--eBookBinder'>eBookBinder</a></td>
+       <td class="appos">macOS</td>
+        <td class="appreading">1.4.0 +</td>
+        <td class="appwriting">1.4.0 +</td>
+        <td class="appstandard">v2 (md, html, Textile, Wikitext, BBCode, Smark)</td>
+    </tr>
     <tr class="app">
         <td class="appicon"><a href='http://basilsalad.com/ios/go-edit/'><img src='images/apps/goedit.png' /></a></td>
         <td class="appname"><a href='http://basilsalad.com/ios/go-edit/'>Go Edit</a></td>
