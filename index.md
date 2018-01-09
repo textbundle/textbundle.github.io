@@ -73,6 +73,14 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appstandard">v1</td>
     </tr>
     <tr>
+        <td class="appicon"><a href='https://xelaton.com/index.php?lang=en&rubrik=Applications--MarkMyWords'><img src='images/apps/markmywords.png' /></a></td>
+        <td class="appname"><a href='https://xelaton.com/index.php?lang=en&rubrik=Applications--MarkMyWords'>MarkMyWords</a></td>
+        <td class="appos">macOS</td>
+        <td class="appreading">1.10.0 +</td>
+        <td class="appwriting">1.10.0 +</td>
+        <td class="appstandard">v2</td>
+    </tr>	
+    <tr>
         <td class="appicon"><a href='http://www.mindnode.com'><img src='images/apps/mindnode.png' /></a></td>
         <td class="appname"><a href='http://www.mindnode.com'>MindNode</a></td>
        <td class="appos">macOS, iOS</td>
