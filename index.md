@@ -41,6 +41,14 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appstandard">v2 (md, html, Textile, Wikitext, BBCode, Smark)</td>
     </tr>
     <tr class="app">
+        <td class="appicon"><a href='https://fsnot.es'><img src='images/apps/fsnotes.png' /></a></td>
+        <td class="appname"><a href='https://fsnot.es'>FSNotes</a></td>
+        <td class="appos">macOS</td>
+        <td class="appreading">2.0 +</td>
+        <td class="appwriting">2.0 +</td>
+        <td class="appstandard">v2</td>
+    </tr>
+    <tr class="app">
         <td class="appicon"><a href='http://basilsalad.com/ios/go-edit/'><img src='images/apps/goedit.png' /></a></td>
         <td class="appname"><a href='http://basilsalad.com/ios/go-edit/'>Go Edit</a></td>
         <td class="appos">iOS</td>
