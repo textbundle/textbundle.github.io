@@ -4,7 +4,7 @@ title: Welcome to TextBundle.org!
 navigationTitle: Home
 position: 0
 ---
-The TextBundle file format aims to provide a more seamless user expericence when exchanging plain text files, like Markdown or Fountain, between sandboxed applications.
+The TextBundle file format aims to provide a more seamless user experience when exchanging plain text files, like Markdown or Fountain, between sandboxed applications.
 
 Sandboxing is required for all apps available on the Mac and iOS app store, in order to grant users a high level of data security. Sandboxed apps are only permitted access to files explicitly provided by the user - for example Markdown text files. When working with different Markdown applications, sandboxing can cause inconveniences for the user.
 
