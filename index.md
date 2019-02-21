@@ -28,32 +28,32 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appicon"><a href='http://bear-writer.com/'><img src='images/apps/bear.png' /></a></td>
         <td class="appname"><a href='http://bear-writer.com/'>Bear</a></td>
        <td class="appos">macOS, iOS</td>
-        <td class="appreading">1.0 +</td>
-        <td class="appwriting">1.0 +</td>
+        <td class="appreading">1.0</td>
+        <td class="appwriting">1.0</td>
         <td class="appstandard">v2</td>
     </tr>
 	<tr>
         <td class="appicon"><a href='https://xelaton.com/index.php?lang=en&rubrik=Applications--eBookBinder'><img src='images/apps/ebookbinder.png' /></a></td>
         <td class="appname"><a href='https://xelaton.com/index.php?lang=en&rubrik=Applications--eBookBinder'>eBookBinder</a></td>
        <td class="appos">macOS</td>
-        <td class="appreading">1.4.0 +</td>
-        <td class="appwriting">1.4.0 +</td>
+        <td class="appreading">1.4.0</td>
+        <td class="appwriting">1.4.0</td>
         <td class="appstandard">v2 (md, html, Textile, Wikitext, BBCode, Smark)</td>
     </tr>
     <tr class="app">
         <td class="appicon"><a href='https://fsnot.es'><img src='images/apps/fsnotes.png' /></a></td>
         <td class="appname"><a href='https://fsnot.es'>FSNotes</a></td>
         <td class="appos">macOS</td>
-        <td class="appreading">2.0 +</td>
-        <td class="appwriting">2.0 +</td>
+        <td class="appreading">2.0</td>
+        <td class="appwriting">2.0</td>
         <td class="appstandard">v2</td>
     </tr>
     <tr class="app">
         <td class="appicon"><a href='http://basilsalad.com/ios/go-edit/'><img src='images/apps/goedit.png' /></a></td>
         <td class="appname"><a href='http://basilsalad.com/ios/go-edit/'>Go Edit</a></td>
         <td class="appos">iOS</td>
-        <td class="appreading">1.0 +</td>
-        <td class="appwriting">1.0 +</td>
+        <td class="appreading">1.0</td>
+        <td class="appwriting">1.0</td>
 		<td class="appstandard">v2 (md, html)</td>		
     </tr>
     <tr class="app">
@@ -61,7 +61,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appname"><a href='http://www.highlightsapp.net'>Highlights</a></td>
        <td class="appos">macOS</td>
         <td class="appreading">-</td>
-        <td class="appwriting">1.0 +</td>
+        <td class="appwriting">1.0</td>
         <td class="appstandard">v1</td>     
     </tr>
     <tr class="app">
@@ -76,7 +76,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appicon"><a href='http://www.marked2app.com'><img src='images/apps/marked2.png' /></a></td>
         <td class="appname"><a href='http://www.marked2app.com'>Marked 2</a></td>
        <td class="appos">macOS</td>
-        <td class="appreading">2.3.4 +</td>
+        <td class="appreading">2.3.4</td>
         <td class="appwriting">-</td>
         <td class="appstandard">v1</td>
     </tr>
@@ -84,8 +84,8 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appicon"><a href='https://xelaton.com/index.php?lang=en&rubrik=Applications--MarkMyWords'><img src='images/apps/markmywords.png' /></a></td>
         <td class="appname"><a href='https://xelaton.com/index.php?lang=en&rubrik=Applications--MarkMyWords'>MarkMyWords</a></td>
         <td class="appos">macOS</td>
-        <td class="appreading">1.10.0 +</td>
-        <td class="appwriting">1.10.0 +</td>
+        <td class="appreading">1.10.0</td>
+        <td class="appwriting">1.10.0</td>
         <td class="appstandard">v2</td>
     </tr>	
     <tr>
@@ -100,16 +100,16 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appicon"><a href='http://xelaton.com/index.php?lang=en&rubrik=Applications--Myary'><img src='images/apps/myary.png' /></a></td>
         <td class="appname"><a href='http://xelaton.com/index.php?lang=en&rubrik=Applications--Myary'>Myary</a></td>
         <td class="appos">macOS</td>
-        <td class="appreading">1.5.0 +</td>
-        <td class="appwriting">1.5.0 +</td>
+        <td class="appreading">1.5.0</td>
+        <td class="appwriting">1.5.0</td>
 		<td class="appstandard">v2</td>		
     </tr>
     <tr class="app">
         <td class="appicon"><a href='http://xelaton.com/index.php?lang=en&rubrik=Applications--Note-C'><img src='images/apps/note-c.png' /></a></td>
         <td class="appname"><a href='http://xelaton.com/index.php?lang=en&rubrik=Applications--Note-C'>Note-C</a></td>
         <td class="appos">macOS</td>
-        <td class="appreading">1.5.0 +</td>
-        <td class="appwriting">1.5.0 +</td>
+        <td class="appreading">1.5.0</td>
+        <td class="appwriting">1.5.0</td>
 		<td class="appstandard">v2</td>		
     </tr>
     <tr class="app">
@@ -117,15 +117,23 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appname"><a href='http://www.aflava.com'>Smartdown II</a></td>
        <td class="appos">Windows</td>
         <td class="appreading">-</td>
-        <td class="appwriting">0.8.2 +</td>
+        <td class="appwriting">0.8.2</td>
 		<td class="appstandard">v2</td>		
     </tr>
     <tr class="app">
-        <td class="appicon"><a href='http://www.ulyssesapp.com'><img src='images/apps/ulysses.png' /></a></td>
-        <td class="appname"><a href='http://www.ulyssesapp.com'>Ulysses</a></td>
+        <td class="appicon"><a href='https://www.ulysses.app'><img src='images/apps/ulysses.png' /></a></td>
+        <td class="appname"><a href='https://www.ulysses.app'>Ulysses</a></td>
        <td class="appos">macOS, iOS</td>
         <td class="appreading">2.7</td>
-        <td class="appwriting">1.2.2 +</td>
+        <td class="appwriting">1.2.2</td>
+        <td class="appstandard">v2</td>     
+    </tr>
+    <tr class="app">
+        <td class="appicon"><a href='https://www.xmind.net/zen/'><img src='images/apps/xmind_zen.png' /></a></td>
+        <td class="appname"><a href='https://www.xmind.net/zen/'>XMind: ZEN</a></td>
+       <td class="appos">macOS, iOS</td>
+        <td class="appreading">9.1.0</td>
+        <td class="appwriting">9.1.0</td>
         <td class="appstandard">v2</td>     
     </tr>
 </table>
