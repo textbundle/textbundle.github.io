@@ -57,6 +57,14 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
 		<td class="appstandard">v2 (md, html)</td>		
     </tr>
     <tr class="app">
+        <td class="appicon"><a href='https://xelaton.com/index.php?lang=en&rubrik=Applications--HashGazer'><img src='images/apps/hashgazer.png' /></a></td>
+        <td class="appname"><a href='https://xelaton.com/index.php?lang=en&rubrik=Applications--HashGazer'>#Gazer</a></td>
+       <td class="appos">macOS</td>
+        <td class="appreading">1.0</td>
+        <td class="appwriting">1.0</td>
+        <td class="appstandard">v2</td>     
+    </tr>
+    <tr class="app">
         <td class="appicon"><a href='http://www.highlightsapp.net'><img src='images/apps/highlights.png' /></a></td>
         <td class="appname"><a href='http://www.highlightsapp.net'>Highlights</a></td>
        <td class="appos">macOS</td>
