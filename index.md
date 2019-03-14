@@ -121,6 +121,14 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
 		<td class="appstandard">v2</td>		
     </tr>
     <tr class="app">
+        <td class="appicon"><a href='https://xelaton.com/index.php?lang=en&rubrik=Applications--Textbundle%20Editor'><img src='images/apps/textbundle-editor.png' /></a></td>
+        <td class="appname"><a href='https://xelaton.com/index.php?lang=en&rubrik=Applications--Textbundle%20Editor'>Textbundle Editor</a></td>
+       <td class="appos">macOS</td>
+        <td class="appreading">1.0</td>
+        <td class="appwriting">1.0</td>
+        <td class="appstandard">v2</td>     
+    </tr>	
+    <tr class="app">
         <td class="appicon"><a href='https://www.ulysses.app'><img src='images/apps/ulysses.png' /></a></td>
         <td class="appname"><a href='https://www.ulysses.app'>Ulysses</a></td>
        <td class="appos">macOS, iOS</td>
