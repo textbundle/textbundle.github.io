@@ -155,7 +155,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
     <tr class="app">
         <td class="appicon"><a href='https://www.zettlr.com/'><img src='images/apps/zettlr.png' /></a></td>
         <td class="appname"><a href='https://www.zettlr.com/'>Zettlr</a></td>
-       <td class="appos">macOS, iOS</td>
+       <td class="appos">macOS, Linux, Windows</td>
         <td class="appreading">1.2.0</td>
         <td class="appwriting">1.2.0</td>
         <td class="appstandard">v2</td>     
