@@ -85,7 +85,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appname"><a href='http://www.marked2app.com'>Marked 2</a></td>
        <td class="appos">macOS</td>
         <td class="appreading">2.3.4</td>
-        <td class="appwriting">-</td>
+        <td class="appwriting">2.5</td>
         <td class="appstandard">v1</td>
     </tr>
     <tr>
@@ -161,6 +161,10 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appstandard">v2</td>     
     </tr>
 </table>
+
+### TextBundle framework for macOS and iOS
+
+Developers can easily incorporate TextBundle import and export with the TextBundle library from ShinyFrog. See the [GitHub repository](https://github.com/shinyfrog/TextBundle) for details.
 
 
 ### Quick Look on OS X
