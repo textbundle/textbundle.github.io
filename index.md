@@ -164,7 +164,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
 
 ### TextBundle framework for macOS and iOS
 
-Developers can easily incorporate TextBundle import and export with the TextBundle library from ShinyFrog. See the [GitHub repository](https://github.com/shinyfrog/TextBundle) for details.
+Developers can easily incorporate TextBundle import and export with the TextBundle library from Shiny Frog. See the [GitHub repository](https://github.com/shinyfrog/TextBundle) for details.
 
 
 ### Quick Look on OS X
