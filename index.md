@@ -145,6 +145,14 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appstandard">v2</td>     
     </tr>
     <tr class="app">
+        <td class="appicon"><a href='https://apps.wordpress.com/mobile/'><img src='images/apps/wordpress.png' /></a></td>
+        <td class="appname"><a href='https://apps.wordpress.com/mobile/'>WordPress</a></td>
+       <td class="appos">iOS</td>
+        <td class="appreading">12.3</td>
+        <td class="appwriting">-</td>
+        <td class="appstandard">v2</td>     
+    </tr>
+    <tr class="app">
         <td class="appicon"><a href='https://www.xmind.net/zen/'><img src='images/apps/xmind_zen.png' /></a></td>
         <td class="appname"><a href='https://www.xmind.net/zen/'>XMind: ZEN</a></td>
        <td class="appos">macOS, iOS</td>
