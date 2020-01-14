@@ -83,7 +83,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
     <tr class="app">
         <td class="appicon"><a href='https://keepmark.io/'><img src='images/apps/keepmark.png' /></a></td>
         <td class="appname"><a href='https://keepmark.io/'>Keepmark</a></td>
-       <td class="appos">macOS, Windows</td>
+       <td class="appos">Linux, macOS, Windows</td>
         <td class="appreading">1.7</td>
         <td class="appwriting">1.7</td>
         <td class="appstandard">v2 (Textpack)</td>     
