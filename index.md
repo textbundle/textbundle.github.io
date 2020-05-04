@@ -32,6 +32,14 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appwriting">1.0</td>
         <td class="appstandard">v2</td>
     </tr>
+    <tr>
+        <td class="appicon"><a href='https://colanotes.com/'><img src='images/apps/colanotes.png' /></a></td>
+        <td class="appname"><a href='https://colanotes.com/'>Cola Notes</a></td>
+        <td class="appos">Android</td>
+        <td class="appreading">1.83</td>
+        <td class="appwriting">1.83</td>
+        <td class="appstandard">v2</td>
+    </tr>
 	<tr>
         <td class="appicon"><a href='https://xelaton.com/index.php?lang=en&rubrik=Applications--eBookBinder'><img src='images/apps/ebookbinder.png' /></a></td>
         <td class="appname"><a href='https://xelaton.com/index.php?lang=en&rubrik=Applications--eBookBinder'>eBookBinder</a></td>
