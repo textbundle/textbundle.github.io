@@ -27,7 +27,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
     <tr>
         <td class="appicon"><a href='http://bear-writer.com/'><img src='images/apps/bear.png' /></a></td>
         <td class="appname"><a href='http://bear-writer.com/'>Bear</a></td>
-       <td class="appos">macOS, iOS</td>
+       <td class="appos">macOS, iOS, iPadOS</td>
         <td class="appreading">1.0</td>
         <td class="appwriting">1.0</td>
         <td class="appstandard">v2</td>
@@ -38,6 +38,14 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appos">Android</td>
         <td class="appreading">1.83</td>
         <td class="appwriting">1.83</td>
+        <td class="appstandard">v2</td>
+    </tr>
+    <tr>
+        <td class="appicon"><a href='https://craft.do/'><img src='images/apps/craft.png' /></a></td>
+        <td class="appname"><a href='https://craft.do/'>Craft</a></td>
+        <td class="appos">macOS, iOS, iPadOS, web</td>
+        <td class="appreading">1.0</td>
+        <td class="appwriting">1.0</td>
         <td class="appstandard">v2</td>
     </tr>
 	<tr>
@@ -59,7 +67,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
     <tr class="app">
         <td class="appicon"><a href='http://basilsalad.com/ios/go-edit/'><img src='images/apps/goedit.png' /></a></td>
         <td class="appname"><a href='http://basilsalad.com/ios/go-edit/'>Go Edit</a></td>
-        <td class="appos">iOS</td>
+        <td class="appos">iOS, iPadOS</td>
         <td class="appreading">1.0</td>
         <td class="appwriting">1.0</td>
 		<td class="appstandard">v2 (md, html)</td>		
@@ -83,7 +91,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
     <tr class="app">
         <td class="appicon"><a href='http://www.toketaware.com/'><img src='images/apps/ithoughts.png' /></a></td>
         <td class="appname"><a href='http://www.toketaware.com/'>iThoughts</a></td>
-       <td class="appos">macOS, iOS, Windows</td>
+       <td class="appos">macOS, iOS, iPadOS, Windows</td>
         <td class="appreading">-</td>
         <td class="appwriting">4.11&nbsp;+&nbsp;(macOS), 2.3&nbsp;+&nbsp;(Windows), 2.7&nbsp;+&nbsp;(iOS)</td>
 		<td class="appstandard">v1</td>		
@@ -115,7 +123,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
     <tr>
         <td class="appicon"><a href='http://www.mindnode.com'><img src='images/apps/mindnode.png' /></a></td>
         <td class="appname"><a href='http://www.mindnode.com'>MindNode</a></td>
-       <td class="appos">macOS, iOS</td>
+       <td class="appos">macOS, iOS, iPadOS</td>
         <td class="appreading">2.5&nbsp;+&nbsp;(macOS), 4.5&nbsp;+&nbsp;(iOS)</td>
         <td class="appwriting">2.5&nbsp;+&nbsp;(macOS), 4.5&nbsp;+&nbsp;(iOS)</td>
         <td class="appstandard">v2</td>
@@ -155,7 +163,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
     <tr class="app">
         <td class="appicon"><a href='https://www.ulysses.app'><img src='images/apps/ulysses.png' /></a></td>
         <td class="appname"><a href='https://www.ulysses.app'>Ulysses</a></td>
-       <td class="appos">macOS, iOS</td>
+       <td class="appos">macOS, iOS, iPadOS</td>
         <td class="appreading">2.7</td>
         <td class="appwriting">1.2.2</td>
         <td class="appstandard">v2</td>     
@@ -163,7 +171,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
     <tr class="app">
         <td class="appicon"><a href='https://apps.wordpress.com/mobile/'><img src='images/apps/wordpress.png' /></a></td>
         <td class="appname"><a href='https://apps.wordpress.com/mobile/'>WordPress</a></td>
-       <td class="appos">iOS</td>
+       <td class="appos">iOS, iPadOS</td>
         <td class="appreading">12.3</td>
         <td class="appwriting">-</td>
         <td class="appstandard">v2</td>     
@@ -171,7 +179,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
     <tr class="app">
         <td class="appicon"><a href='https://www.xmind.net/zen/'><img src='images/apps/xmind_zen.png' /></a></td>
         <td class="appname"><a href='https://www.xmind.net/zen/'>XMind: ZEN</a></td>
-       <td class="appos">macOS, iOS</td>
+       <td class="appos">macOS, iOS, iPadOS</td>
         <td class="appreading">9.1.0</td>
         <td class="appwriting">9.1.0</td>
         <td class="appstandard">v2</td>     
