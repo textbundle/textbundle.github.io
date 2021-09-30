@@ -155,7 +155,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
     <tr class="app">
         <td class="appicon"><a href='https://taio.app'><img src='images/apps/taio.png' /></a></td>
         <td class="appname"><a href='https://taio.app'>Taio</a></td>
-       <td class="appos">iOS</td>
+       <td class="appos">macOS, iOS</td>
         <td class="appreading">1.0</td>
         <td class="appwriting">1.0</td>
         <td class="appstandard">v2</td>     
