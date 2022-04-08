@@ -25,6 +25,14 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <th class="appstandard">Standard</th>
     </tr>
     <tr>
+        <td class="appicon"><a href='http://agenda.com/'><img src='images/apps/agenda.png' /></a></td>
+        <td class="appname"><a href='http://agenda.com/'>Agenda</a></td>
+       <td class="appos">macOS, iOS, iPadOS</td>
+        <td class="appreading">14.0</td>
+        <td class="appwriting">14.0</td>
+        <td class="appstandard">v2</td>
+    </tr>
+    <tr>
         <td class="appicon"><a href='http://bear-writer.com/'><img src='images/apps/bear.png' /></a></td>
         <td class="appname"><a href='http://bear-writer.com/'>Bear</a></td>
        <td class="appos">macOS, iOS, iPadOS</td>
