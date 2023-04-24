@@ -41,14 +41,6 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appstandard">v2</td>
     </tr>
     <tr>
-        <td class="appicon"><a href='https://colanotes.com/'><img src='images/apps/colanotes.png' /></a></td>
-        <td class="appname"><a href='https://colanotes.com/'>Cola Notes</a></td>
-        <td class="appos">Android</td>
-        <td class="appreading">1.83</td>
-        <td class="appwriting">1.83</td>
-        <td class="appstandard">v2</td>
-    </tr>
-    <tr>
         <td class="appicon"><a href='https://craft.do/'><img src='images/apps/craft.png' /></a></td>
         <td class="appname"><a href='https://craft.do/'>Craft</a></td>
         <td class="appos">macOS, iOS, iPadOS, web</td>
@@ -151,6 +143,14 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appreading">1.5.0</td>
         <td class="appwriting">1.5.0</td>
 		<td class="appstandard">v2</td>		
+    </tr>
+    <tr>
+        <td class="appicon"><a href='https://onejotter.com'><img src='images/apps/onejotter.png' /></a></td>
+        <td class="appname"><a href='https://onejotter.com'>One Jotter</a></td>
+        <td class="appos">Android, Windows</td>
+        <td class="appreading">1.83</td>
+        <td class="appwriting">1.83</td>
+        <td class="appstandard">v2</td>
     </tr>
     <tr class="app">
         <td class="appicon"><a href='http://www.aflava.com'><img src='images/apps/smartdown.png' /></a></td>
