@@ -153,8 +153,16 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appstandard">v2</td>
     </tr>
     <tr class="app">
-        <td class="appicon"><a href='http://www.aflava.com'><img src='images/apps/smartdown.png' /></a></td>
-        <td class="appname"><a href='http://www.aflava.com'>Smartdown II</a></td>
+        <td class="appicon"><a href='https://papereditor.app'><img src='images/apps/paper.png' /></a></td>
+        <td class="appname"><a href='https://papereditor.app'>Paper</a></td>
+        <td class="appos">macOS</td>
+        <td class="appreading">46</td>
+        <td class="appwriting">-</td>
+        <td class="appstandard">v2</td>     
+    </tr>    
+    <tr class="app">
+        <td class="appicon"><a href='https://www.aflava.com'><img src='images/apps/smartdown.png' /></a></td>
+        <td class="appname"><a href='https://www.aflava.com'>Smartdown II</a></td>
        <td class="appos">Windows</td>
         <td class="appreading">-</td>
         <td class="appwriting">0.8.2</td>
