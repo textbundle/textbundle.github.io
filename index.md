@@ -25,16 +25,16 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <th class="appstandard">Standard</th>
     </tr>
     <tr>
-        <td class="appicon"><a href='http://agenda.com/'><img src='images/apps/agenda.png' /></a></td>
-        <td class="appname"><a href='http://agenda.com/'>Agenda</a></td>
+        <td class="appicon"><a href='https://agenda.com/'><img src='images/apps/agenda.png' /></a></td>
+        <td class="appname"><a href='https://agenda.com/'>Agenda</a></td>
        <td class="appos">macOS, iOS, iPadOS</td>
         <td class="appreading">14.0</td>
         <td class="appwriting">14.0</td>
         <td class="appstandard">v2</td>
     </tr>
     <tr>
-        <td class="appicon"><a href='http://bear-writer.com/'><img src='images/apps/bear.png' /></a></td>
-        <td class="appname"><a href='http://bear-writer.com/'>Bear</a></td>
+        <td class="appicon"><a href='https://bear-writer.com/'><img src='images/apps/bear.png' /></a></td>
+        <td class="appname"><a href='https://bear-writer.com/'>Bear</a></td>
        <td class="appos">macOS, iOS, iPadOS</td>
         <td class="appreading">1.0</td>
         <td class="appwriting">1.0</td>
@@ -65,8 +65,8 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appstandard">v2</td>
     </tr>
     <tr class="app">
-        <td class="appicon"><a href='http://basilsalad.com/ios/go-edit/'><img src='images/apps/goedit.png' /></a></td>
-        <td class="appname"><a href='http://basilsalad.com/ios/go-edit/'>Go Edit</a></td>
+        <td class="appicon"><a href='https://basilsalad.com/ios/go-edit/'><img src='images/apps/goedit.png' /></a></td>
+        <td class="appname"><a href='https://basilsalad.com/ios/go-edit/'>Go Edit</a></td>
         <td class="appos">iOS, iPadOS</td>
         <td class="appreading">1.0</td>
         <td class="appwriting">1.0</td>
@@ -81,16 +81,16 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appstandard">v2</td>     
     </tr>
     <tr class="app">
-        <td class="appicon"><a href='http://www.highlightsapp.net'><img src='images/apps/highlights.png' /></a></td>
-        <td class="appname"><a href='http://www.highlightsapp.net'>Highlights</a></td>
+        <td class="appicon"><a href='https://www.highlightsapp.net'><img src='images/apps/highlights.png' /></a></td>
+        <td class="appname"><a href='https://www.highlightsapp.net'>Highlights</a></td>
        <td class="appos">macOS</td>
         <td class="appreading">-</td>
         <td class="appwriting">1.0</td>
         <td class="appstandard">v1</td>     
     </tr>
     <tr class="app">
-        <td class="appicon"><a href='http://www.toketaware.com/'><img src='images/apps/ithoughts.png' /></a></td>
-        <td class="appname"><a href='http://www.toketaware.com/'>iThoughts</a></td>
+        <td class="appicon"><a href='https://www.toketaware.com/'><img src='images/apps/ithoughts.png' /></a></td>
+        <td class="appname"><a href='https://www.toketaware.com/'>iThoughts</a></td>
        <td class="appos">macOS, iOS, iPadOS, Windows</td>
         <td class="appreading">-</td>
         <td class="appwriting">4.11&nbsp;+&nbsp;(macOS), 2.3&nbsp;+&nbsp;(Windows), 2.7&nbsp;+&nbsp;(iOS)</td>
@@ -105,8 +105,8 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appstandard">v2 (Textpack)</td>     
     </tr>
     <tr>
-        <td class="appicon"><a href='http://www.marked2app.com'><img src='images/apps/marked2.png' /></a></td>
-        <td class="appname"><a href='http://www.marked2app.com'>Marked 2</a></td>
+        <td class="appicon"><a href='https://www.marked2app.com'><img src='images/apps/marked2.png' /></a></td>
+        <td class="appname"><a href='https://www.marked2app.com'>Marked 2</a></td>
        <td class="appos">macOS</td>
         <td class="appreading">2.3.4</td>
         <td class="appwriting">2.5</td>
@@ -121,24 +121,24 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appstandard">v2</td>
     </tr>	
     <tr>
-        <td class="appicon"><a href='http://www.mindnode.com'><img src='images/apps/mindnode.png' /></a></td>
-        <td class="appname"><a href='http://www.mindnode.com'>MindNode</a></td>
+        <td class="appicon"><a href='https://www.mindnode.com'><img src='images/apps/mindnode.png' /></a></td>
+        <td class="appname"><a href='https://www.mindnode.com'>MindNode</a></td>
        <td class="appos">macOS, iOS, iPadOS</td>
         <td class="appreading">2.5&nbsp;+&nbsp;(macOS), 4.5&nbsp;+&nbsp;(iOS)</td>
         <td class="appwriting">2.5&nbsp;+&nbsp;(macOS), 4.5&nbsp;+&nbsp;(iOS)</td>
         <td class="appstandard">v2</td>
     </tr>
     <tr class="app">
-        <td class="appicon"><a href='http://xelaton.com/index.php?lang=en&rubrik=Applications--Myary'><img src='images/apps/myary.png' /></a></td>
-        <td class="appname"><a href='http://xelaton.com/index.php?lang=en&rubrik=Applications--Myary'>Myary</a></td>
+        <td class="appicon"><a href='https://xelaton.com/index.php?lang=en&rubrik=Applications--Myary'><img src='images/apps/myary.png' /></a></td>
+        <td class="appname"><a href='https://xelaton.com/index.php?lang=en&rubrik=Applications--Myary'>Myary</a></td>
         <td class="appos">macOS</td>
         <td class="appreading">1.5.0</td>
         <td class="appwriting">1.5.0</td>
 		<td class="appstandard">v2</td>		
     </tr>
     <tr class="app">
-        <td class="appicon"><a href='http://xelaton.com/index.php?lang=en&rubrik=Applications--Note-C'><img src='images/apps/note-c.png' /></a></td>
-        <td class="appname"><a href='http://xelaton.com/index.php?lang=en&rubrik=Applications--Note-C'>Note-C</a></td>
+        <td class="appicon"><a href='https://xelaton.com/index.php?lang=en&rubrik=Applications--Note-C'><img src='images/apps/note-c.png' /></a></td>
+        <td class="appname"><a href='https://xelaton.com/index.php?lang=en&rubrik=Applications--Note-C'>Note-C</a></td>
         <td class="appos">macOS</td>
         <td class="appreading">1.5.0</td>
         <td class="appwriting">1.5.0</td>
@@ -239,5 +239,5 @@ Like to join in with your app? Please [drop us a line][4] or write us on [twitte
 [3]:    /downloads/example.textpack
 [4]:    mailto:info@textbundle.org
 [5]:    https://twitter.com/txtbndl
-[6]:    http://brettterpstra.com/2015/06/03/mmd-quicklook-1-dot-2-with-textbundle-support/
-[7]:	http://brettterpstra.com/
+[6]:    https://brettterpstra.com/2015/06/03/mmd-quicklook-1-dot-2-with-textbundle-support/
+[7]:	https://brettterpstra.com/
