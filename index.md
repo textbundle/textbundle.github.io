@@ -209,8 +209,8 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appstandard">v2</td>     
     </tr>
     <tr class="app">
-        <td class="appicon"><a href='https://www.xmind.net/zen/'><img src='images/apps/xmind_zen.png' /></a></td>
-        <td class="appname"><a href='https://www.xmind.net/zen/'>XMind: ZEN</a></td>
+        <td class="appicon"><a href='https://www.xmind.app/'><img src='images/apps/xmind.png' /></a></td>
+        <td class="appname"><a href='https://www.xmind.app/'>Xmind</a></td>
        <td class="appos">macOS, iOS, iPadOS</td>
         <td class="appreading">9.1.0</td>
         <td class="appwriting">9.1.0</td>
