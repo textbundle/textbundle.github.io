@@ -120,6 +120,14 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appwriting">2.5</td>
         <td class="appstandard">v1</td>
     </tr>
+	<tr>
+        <td class="appicon"><a href='https://www.markedapp.com'><img src='images/apps/marked3.png' /></a></td>
+        <td class="appname"><a href='https://www.marked2app.com'>Marked 3</a></td>
+       <td class="appos">macOS</td>
+        <td class="appreading">3.0.0</td>
+        <td class="appwriting">3.0.0</td>
+        <td class="appstandard">v2</td>
+    </tr>
     <tr>
         <td class="appicon"><a href='https://xelaton.com/index.php?lang=en&rubrik=Applications--MarkMyWords'><img src='images/apps/markmywords.png' /></a></td>
         <td class="appname"><a href='https://xelaton.com/index.php?lang=en&rubrik=Applications--MarkMyWords'>MarkMyWords</a></td>
