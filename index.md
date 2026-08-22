@@ -121,7 +121,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appstandard">v1</td>
     </tr>
 	<tr>
-        <td class="appicon"><a href='https://www.markedapp.com'><img src='images/apps/marked3.svg' /></a></td>
+        <td class="appicon"><a href='https://www.markedapp.com'><img src='images/apps/marked3.png' /></a></td>
         <td class="appname"><a href='https://www.marked2app.com'>Marked 3</a></td>
        <td class="appos">macOS</td>
         <td class="appreading">3.0.0</td>
