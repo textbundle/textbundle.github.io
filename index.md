@@ -145,7 +145,7 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appstandard">v2</td>
     </tr>
     <tr class="app">
-        <td class="appicon"><a href='https://github.com/slePPyMe/marktext-textpack'><img src='images/apps/marktext-textpack.png' alt='MarkText TextPack' /></a></td>
+        <td class="appicon"><a href='https://github.com/slePPyMe/marktext-textpack'><img src='images/apps/marktext-textpack.png' alt='MarkText TextPack' width='32' height='32' /></a></td>
         <td class="appname"><a href='https://github.com/slePPyMe/marktext-textpack'>MarkText TextPack (unofficial)</a></td>
         <td class="appos">Windows, macOS, Linux</td>
         <td class="appreading">0.23.0</td>
