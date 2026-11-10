@@ -144,6 +144,14 @@ You can download a simple example file for a [TextBundle file (Version 2)][2] an
         <td class="appwriting">1.8.0</td>
         <td class="appstandard">v2</td>
     </tr>
+    <tr class="app">
+        <td class="appicon"><a href='https://github.com/slePPyMe/marktext-textpack'><img src='images/apps/marktext-textpack.png' alt='MarkText TextPack' /></a></td>
+        <td class="appname"><a href='https://github.com/slePPyMe/marktext-textpack'>MarkText TextPack (unofficial)</a></td>
+        <td class="appos">Windows, macOS, Linux</td>
+        <td class="appreading">0.23.0</td>
+        <td class="appwriting">0.23.0</td>
+        <td class="appstandard">v2 (TextPack only)</td>
+    </tr>
     <tr>
         <td class="appicon"><a href='https://www.mindnode.com'><img src='images/apps/mindnode.png' /></a></td>
         <td class="appname"><a href='https://www.mindnode.com'>MindNode</a></td>
